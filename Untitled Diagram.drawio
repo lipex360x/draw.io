@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:01:49.664Z" agent="5.0 (Windows)" etag="elkPSUQ0MfIlyGWWN_z8" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T18:31:41.761Z" agent="5.0 (Windows)" etag="xd_kpLSOw3eddhqgi0zi" version="18.0.3" type="github">
   <diagram id="evBmH3DxZzRIW_SZbfuo" name="Page-1">
     <mxGraphModel dx="2249" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="WLIiBSTA3t1K0xC4Iqjj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="WLIiBSTA3t1K0xC4Iqjj-68" target="WLIiBSTA3t1K0xC4Iqjj-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WLIiBSTA3t1K0xC4Iqjj-68" value="&lt;div&gt;FAI (FLEET)&lt;/div&gt;&lt;div&gt;TESTE / REVISÃO&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="WLIiBSTA3t1K0xC4Iqjj-68" value="&lt;div&gt;FAI (FLEET)&lt;/div&gt;&lt;div&gt;TESTE / REVISÃO&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;MES03_TP_COMPONENTE = 4&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="352.59" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WLIiBSTA3t1K0xC4Iqjj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="WLIiBSTA3t1K0xC4Iqjj-73" target="WLIiBSTA3t1K0xC4Iqjj-34">
